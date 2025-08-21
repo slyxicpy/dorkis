@@ -1,3 +1,3 @@
 # dorkis
-`Central Dorks STyx Conection SMinOS
+`Central Dorks STyx Conection SMinOS`
 
