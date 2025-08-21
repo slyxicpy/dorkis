@@ -1,6 +1,6 @@
 #               dorkis
-## Central Dorks STyx Conection SMinOS
-```
-MultiLeng db for SMinOs command system .dork
-```
+## Central Dorks Styx Conection SminOS
+
+ MultiLeng db for SminOs command system .dork
+
 
